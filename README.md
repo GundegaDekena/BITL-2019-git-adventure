@@ -12,3 +12,4 @@ What do you do?
 
 [Keep your eyes shut and listen](listen/README.md)
 
+[Start studying in BITL](startin/README.md)
