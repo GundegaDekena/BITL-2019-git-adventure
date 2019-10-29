@@ -12,4 +12,6 @@ What do you do?
 
 [Keep your eyes shut and listen](listen/README.md)
 
+[Get up and do some coding](do-some-coding/README.md)
+
 [Yell and open your eyes](look-around/README.md)
