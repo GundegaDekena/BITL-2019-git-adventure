@@ -12,3 +12,4 @@ What do you do?
 
 [Keep your eyes shut and listen](listen/README.md)
 
+[Gat up and do some coding](do-some-coding/README.md)
