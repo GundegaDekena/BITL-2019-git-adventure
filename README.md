@@ -12,3 +12,4 @@ What do you do?
 
 [Keep your eyes shut and listen](listen/README.md)
 
+[Yell and open your eyes](look-around/README.md)
