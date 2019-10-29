@@ -12,3 +12,5 @@ What do you do?
 
 [Keep your eyes shut and listen](listen/README.md)
 
+[Let out an existential scream](scream/README.md)
+
