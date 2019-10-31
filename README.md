@@ -18,3 +18,4 @@ What do you do?
 
 [Yell and open your eyes](look-around/README.md)
 
+[Close your eyes and go to sleep](go-to-sleep/README.md)
