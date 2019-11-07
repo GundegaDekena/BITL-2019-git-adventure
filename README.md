@@ -14,3 +14,10 @@ What do you do?
 
 [Let out an existential scream](scream/README.md)
 
+[Start studying in BITL](startin/README.md)
+
+[Get up and do some coding](do-some-coding/README.md)
+
+[Yell and open your eyes](look-around/README.md)
+
+[Close your eyes and go to sleep](go-to-sleep/README.md)
