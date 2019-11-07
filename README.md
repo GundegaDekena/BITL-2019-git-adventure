@@ -12,6 +12,8 @@ What do you do?
 
 [Keep your eyes shut and listen](listen/README.md)
 
+[Let out an existential scream](scream/README.md)
+
 [Start studying in BITL](startin/README.md)
 
 [Get up and do some coding](do-some-coding/README.md)
